@@ -1,0 +1,117 @@
+#EXTM3U
+
+# Peliculas y series
+#EXTINF:Channel 1
+https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:AMC
+https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:AXN
+https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:Cinecanal
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:FX
+https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:Lifetime
+https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+#EXTINF:Paramount
+https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:Space
+https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:Sony
+https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:TCM
+https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:TNT
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:TNT Series
+https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:TNT Novelas
+https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
+#EXTINF:Warner
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:Universal
+https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
+
+# Documentales
+#EXTINF:History
+https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:H2
+https://delivery.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:Animal Planet
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+#EXTINF:Discovery
+https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:Home&Health
+https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+#EXTINF:TLC
+https://loadbalancer20.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:Turbo
+https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:World
+https://delivery.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+#EXTINF:Theater
+https://delivery.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
+#EXTINF:Gourmet
+https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1, Documentales
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=924
+
+# Nacionales
+#EXTINF:America
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:TV Pública
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+#EXTINF:El Nueve
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:Telefe
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+#EXTINF:El 13
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:A24
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+#EXTINF:IP
+https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:Canal 26
+https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
+#EXTINF:C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:Crónica
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
+#EXTINF:TN
+https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
+#EXTINF:LN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+
+# Dibujos
+#EXTINF:Cartoon
+https://delivery.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+#EXTINF:Discovery Kids
+https://delivery.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+#EXTINF:Nickelodeon
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:Disney
+https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:Disney Jr
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+
+# Deportes
+#EXTINF:ESPN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:ESPN2
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:ESPN3
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+#EXTINF:ESPN Extra
+https://loadbalancer20.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:ESPN Premium
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:TNT Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:Fox Sports
+https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:Fox Sports 2
+https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:Fox Sports 3
+https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF: F1
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd

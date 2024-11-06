@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 // Proxy para servir el archivo M3U
 app.get('/proxy-m3u', async (req, res) => {
     try {
-        const response = await axios.get('URL_DE_TU_ARCHIVO_M3U');
+        const response = await axios.get('https://pastebin.com/iXGT1u1s');
         const m3uContent = response.data;
         // Puedes modificar `m3uContent` aquí, si deseas reescribir URLs o encriptar
         res.set('Content-Type', 'text/plain');  // Cambiado a text/plain

@@ -11,7 +11,8 @@ app.get('/proxy-m3u', (req, res) => {
         const m3uContent = fs.readFileSync(filePath, 'utf8');
 
         // Puedes modificar el contenido del archivo M3U aquí si lo deseas
-        res.set('Content-Type', 'application/vnd.apple.mpegurl');
+        res.set('Content-Type', 'text/plain');
+
         res.send(m3uContent);
     } catch (error) {
         res.status(500).send('Error al obtener el archivo M3U');

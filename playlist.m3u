@@ -81,9 +81,6 @@ https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 #EXTINF:LN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
-#EXTINF:-1,RT
-https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-
 
 # Dibujos
 #EXTINF:Cartoon
@@ -98,16 +95,6 @@ https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 
 # Deportes
-#EXTINF:-1,UFC FIGHT LATINOAMERICA
-http://50.7.66.234:8080/moontools/6548@89787/3421
-#EXTINF:ITV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:FOX SPORTS MX
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:Real Madrid
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:Red Bull Tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:ESPN2
@@ -118,6 +105,14 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 https://loadbalancer20.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 #EXTINF:ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:ESPN5
+https://cale.pricesaskeloadsc.com/global/espn5/index.m3u8?token=c261c9a41d512293c1145ffe759e059a7a54991d-35-1731291396-1731255396
+#EXTINF:ESPN6
+https://98ca.pricesaskeloadsc.com/global/espn6/index.m3u8?token=83c61c7e2b10f4c9fdab1c49d0de78aac237db3a-65-1731291529-1731255529
+#EXTINF:ESPN7
+https://cars565.pricesaskeloadsc.com/global/espn7/index.m3u8?token=ca0b396be73c987bc94aced93438e59aa7f7a990-54-1731297729-1731261729
+#EXTINF:Dsport
+https://vasoc88.pricesaskeloadsc.com/global/dsports/index.m3u8?token=c1ecce21347d64525b294a7de0a14c14ad8375d1-1a-1731297786-1731261786
 #EXTINF:TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:Fox Sports
@@ -126,10 +121,10 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:Fox Sports 3
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:DAZN F1
+#EXTINF:Fox Sports
+https://14c5.pricesaskeloadsc.com/global/foxsportspremium/index.m3u8?token=e74829517676e660d9849841bdfd48837f830284-c2-1731298053-1731262053
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-id="DAZN F1" tvg-logo="https://rb.gy/98jmt0" group-title="DAZN" , DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-#EXTINF:DW Espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8

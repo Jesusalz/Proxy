@@ -1,7 +1,7 @@
 #EXTM3U
 
 # Peliculas y series
-#EXTINF:Channel 1
+#EXTINF:A&E
 https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:AMC
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
@@ -121,7 +121,7 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:Fox Sports 3
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:Fox Sports
+#EXTINF:Fox Premium
 https://14c5.pricesaskeloadsc.com/global/foxsportspremium/index.m3u8?token=e74829517676e660d9849841bdfd48837f830284-c2-1731298053-1731262053
 #EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-id="DAZN F1" tvg-logo="https://rb.gy/98jmt0" group-title="DAZN" , DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

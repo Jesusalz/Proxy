@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Peliculas y series",A&E
+#EXTINF:A&E
 https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 #EXTINF:-1 group-title="Peliculas y series",AMC

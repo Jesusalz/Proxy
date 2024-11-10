@@ -1,128 +1,140 @@
 #EXTM3U
-#EXTINF:-1 group-title="Peliculas y series",A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" group-title="Peliculas y series",A&E
 https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
-
-#EXTINF:-1 group-title="Peliculas y series",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="Peliculas y series",AMC
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png" group-title="Peliculas y series",AXN
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/800px-CinecanalLA.png" group-title="Peliculas y series",Cinecanal
 https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Peliculas y series",FX
 https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lifetime_logo_2020.svg/800px-Lifetime_logo_2020.svg.png" group-title="Peliculas y series",Lifetime
 https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Paramount
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Peliculas y series",Paramount
 https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Space
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="Peliculas y series",Space
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Sony
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sony_Channel_logo.png/800px-Sony_Channel_logo.png" group-title="Peliculas y series",Sony
 https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/800px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Peliculas y series",TCM
 https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/800px-TNT_Logo_2016.svg.png" group-title="Peliculas y series",TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",TNT Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/800px-TNT_Series_Logo_2016.png" group-title="Peliculas y series",TNT Series
 https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",TNT Novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_TNT_Novelas.png/800px-Logo_TNT_Novelas.png" group-title="Peliculas y series",TNT Novelas
 https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Warner
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/800px-Warner_Bros_logo.svg.png" group-title="Peliculas y series",Warner
 https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1 group-title="Peliculas y series",Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="Peliculas y series",Universal
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
-
-# Documentales
-#EXTINF:-1 group-title="Documentales",History
+Documentales
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png" group-title="Documentales",History
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1 group-title="Documentales",H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2_logo_%282022%29.svg/800px-History2_logo_%282022%29.svg.png" group-title="Documentales",H2
 https://delivery.cdn.rcs.net.ar/mnp/h2/output.mpd
-#EXTINF:-1 group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-#EXTINF:-1 group-title="Documentales",Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/800px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Documentales",Discovery
 https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1 group-title="Documentales",Home&Health
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png" group-title="Documentales",Home&Health
 https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
-#EXTINF:-1 group-title="Documentales",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Documentales",TLC
 https://loadbalancer20.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
-#EXTINF:-1 group-title="Documentales",Turbo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/800px-Discovery_Turbo_logo.svg.png" group-title="Documentales",Turbo
 https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1 group-title="Documentales",World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/800px-World_Discovery_HD_logo.svg.png" group-title="Documentales",World
 https://delivery.cdn.rcs.net.ar/mnp/disc_world/output.mpd
-#EXTINF:-1 group-title="Documentales",Theater
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/800px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales",Theater
 https://delivery.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
-#EXTINF:-1 group-title="Documentales",Gourmet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/El_Gourmet_logo.svg/800px-El_Gourmet_logo.svg.png" group-title="Documentales",Gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1 group-title="Documentales",Panda
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Panda_Network_logo.png/800px-Panda_Network_logo.png" group-title="Documentales",Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=924
 
-
-#EXTINF:-1 group-title="Nacionales",America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/800px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nacionales",America
 https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
-#EXTINF:-1 group-title="Nacionales",TV Pública
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Nacionales",TV Pública
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
-#EXTINF:-1 group-title="Nacionales",El Nueve
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Canal9_2015.png/800px-Canal9_2015.png" group-title="Nacionales",El Nueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1 group-title="Nacionales",Telefe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales",Telefe
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
-#EXTINF:-1 group-title="Nacionales",El 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/800px-Canal13_logo.png" group-title="Nacionales",El 13
 https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-1 group-title="Nacionales",A24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/800px-A24_%282019-1%29.png" group-title="Nacionales",A24
 https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
-#EXTINF:-1 group-title="Nacionales",IP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/IP_logo.svg/800px-IP_logo.svg.png" group-title="Nacionales",IP
 https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
-#EXTINF:-1 group-title="Nacionales",Canal 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png" group-title="Nacionales",Canal 26
 https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
-#EXTINF:-1 group-title="Nacionales",C5N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/C5N_logo.png/800px-C5N_logo.png" group-title="Nacionales",C5N
 https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
-#EXTINF:-1 group-title="Nacionales",Crónica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/800px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Nacionales",Crónica
 https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
-#EXTINF:-1 group-title="Nacionales",TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" group-title="Nacionales",TN
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
-#EXTINF:-1 group-title="Nacionales",LN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/LN%2B_logo.png/800px-LN%2B_logo.png" group-title="Nacionales",LN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
-
-#EXTINF:-1 group-title="Kids",Cartoon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon
 https://delivery.cdn.rcs.net.ar/mnp/cartoon/output.mpd
-#EXTINF:-1 group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Discovery_Kids_logo.svg/800px-Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 https://delivery.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1 group-title="Kids",Nickelodeon
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png"group-title="Kids",Nickelodeon
 https://delivery.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1 group-title="Kids",Disney
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png"group-title="Kids",Disney
 https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1 group-title="Kids",Disney Jr
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png"group-title="Kids",Disney Jr
 https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 
 
-#EXTINF:-1 group-title="Deportes",ESPN
+#EXTINF:-1 tvg-logo=""group-title="Deportes",ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN2
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",ESPN2
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN3
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",ESPN3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Extra
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",ESPN Extra
 https://loadbalancer20.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-#EXTINF:-1 group-title="Deportes",ESPN Premium
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN5
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",ESPN5
 https://cale.pricesaskeloadsc.com/global/espn5/index.m3u8?token=c261c9a41d512293c1145ffe759e059a7a54991d-35-1731291396-1731255396
-#EXTINF:-1 group-title="Deportes",ESPN6
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN6
 https://98ca.pricesaskeloadsc.com/global/espn6/index.m3u8?token=83c61c7e2b10f4c9fdab1c49d0de78aac237db3a-65-1731291529-1731255529
-#EXTINF:-1 group-title="Deportes",ESPN7
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN7
 https://cars565.pricesaskeloadsc.com/global/espn7/index.m3u8?token=ca0b396be73c987bc94aced93438e59aa7f7a990-54-1731297729-1731261729
-#EXTINF:-1 group-title="Deportes",Dsport
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Dsport
 https://vasoc88.pricesaskeloadsc.com/global/dsports/index.m3u8?token=c1ecce21347d64525b294a7de0a14c14ad8375d1-1a-1731297786-1731261786
-#EXTINF:-1 group-title="Deportes",TNT Sports
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",Fox Sports
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1 group-title="Deportes",Fox Sports 2
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",Fox Sports 2
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
+
+#EXTINF:-1 tvg-logo=""group-title="Deportes",Fox Sports 3
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1 group-title="Deportes",Fox Premium
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="Deportes",Fox Premium
 https://14c5.pricesaskeloadsc.com/global/foxsportspremium/index.m3u8?token=e74829517676e660d9849841bdfd48837f830284-c2-1731298053-1731262053
-#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-id="DAZN F1" tvg-logo="https://rb.gy/98jmt0" group-title="DAZN" , DAZN F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Deportes" , DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa

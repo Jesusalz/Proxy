@@ -31,7 +31,7 @@ https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 group-title="Peliculas y series",Universal
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 
-# Documentales
+
 #EXTINF:-1 group-title="Documentales",History
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 group-title="Documentales",H2

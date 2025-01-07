@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:A&E
-https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
-
 #EXTINF:-1 group-title="Peliculas y series",AMC
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 group-title="Peliculas y series",AXN
@@ -33,7 +30,6 @@ https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 group-title="Peliculas y series",Cinear
 https://delivery.cdn.rcs.net.ar/mnp/cinear/output.mpd
 
-
 #EXTINF:-1 group-title="Documentales",History
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 group-title="Documentales",H2
@@ -56,7 +52,6 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #EXTINF:-1 group-title="Documentales",Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=924
-
 
 #EXTINF:-1 group-title="Nacionales",America
 https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
@@ -83,7 +78,6 @@ https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 #EXTINF:-1 group-title="Nacionales",LN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
-
 #EXTINF:-1 group-title="Kids",Cartoon
 https://delivery.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 #EXTINF:-1 group-title="Kids",Discovery Kids
@@ -94,7 +88,6 @@ https://delivery.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 group-title="Kids",Disney Jr
 https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-
 
 #EXTINF:-1 group-title="Deportes",ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
@@ -122,10 +115,10 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 group-title="Deportes",Fox Sports 3
 https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:Fox Premium
+#EXTINF:-1 group-title="Deportes",Fox Premium
 https://14c5.pricesaskeloadsc.com/global/foxsportspremium/index.m3u8?token=e74829517676e660d9849841bdfd48837f830284-c2-1731298053-1731262053
-#EXTINF: DAZN F1
+#EXTINF:-1 group-title="Deportes",DAZN F1
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF: deporte
-http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Deportes",Deporte
+https://viplus.tech/proxy/http%3A%2F%2F181.78.105.146%3A2000%2Fplay%2Fa053%2Findex.m3u8
